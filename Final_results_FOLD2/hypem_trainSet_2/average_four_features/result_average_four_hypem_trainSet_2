@@ -1,0 +1,65 @@
+
+best epsilon 0.23
+best number of clusters 5
+best minPoints 2
+best outliers 4
+best standard deviation 9.85088828482
+best silhouette 0.52250804419
+
+CLUSTER 1
+AVERAGE_https___hypem.com_Llamaboyblue
+AVERAGE_https___hypem.com_about
+AVERAGE_https___hypem.com_android
+AVERAGE_https___hypem.com_artist_SOULWAX
+AVERAGE_https___hypem.com_artist_Special+Explosion
+AVERAGE_https___hypem.com_contact
+AVERAGE_https___hypem.com_latest
+AVERAGE_https___hypem.com_latest_bandcamp
+AVERAGE_https___hypem.com_popular
+AVERAGE_https___hypem.com_popular_sortby=rank
+AVERAGE_https___hypem.com_popular_videos
+AVERAGE_https___hypem.com_privacy
+AVERAGE_https___hypem.com_sabazel
+AVERAGE_https___hypem.com_sabazel_obsessed
+AVERAGE_https___hypem.com_search_Koresma
+AVERAGE_https___hypem.com_site_causetime_2774
+AVERAGE_https___hypem.com_site_routinebiteshard_17083
+AVERAGE_https___hypem.com_site_sonofmarketing_21929
+AVERAGE_https___hypem.com_site_xxl_23678
+AVERAGE_https___hypem.com_sites
+AVERAGE_https___hypem.com_sites_country_AU
+AVERAGE_https___hypem.com_spy
+AVERAGE_https___hypem.com_spy_CA
+AVERAGE_https___hypem.com_stack_102
+AVERAGE_https___hypem.com_tags_house
+AVERAGE_https___hypem.com_tags_rock
+AVERAGE_https___hypem.com_terms
+AVERAGE_https___hypem.com_zeitgeist_2017_videos 
+
+CLUSTER 2
+AVERAGE_https___hypem.com_track_2jwsv_Lotic+-+FORMATION+%28ELECTION+ANXIETY%2FAMERICA+IS+OVER+EDIT%29
+AVERAGE_https___hypem.com_track_2qhd5_Ayelle+-+Young+%28prod.+Alex+Lustig%29
+AVERAGE_https___hypem.com_track_2qry2_Malena+Zavala+-+A+Vision+That%27s+Changed 
+
+CLUSTER 3
+AVERAGE_http___hypem.com_scott
+AVERAGE_http___hypem.com_stadiumsshrines
+AVERAGE_http___hypem.com_zoya
+AVERAGE_https___hypem.com_random_search
+AVERAGE_hypem.com_ 
+
+CLUSTER 4
+AVERAGE_https___hypem.com_premiere_quiet+friend
+AVERAGE_https___hypem.com_premiere_wei+zhongle 
+
+CLUSTER 5
+AVERAGE_https___hypem.com_stack
+AVERAGE_https___hypem.com_stack_170
+AVERAGE_https___hypem.com_stack_176
+AVERAGE_https___hypem.com_support-us 
+
+OUTLIERS 
+AVERAGE_https___hypem.com_longreads
+AVERAGE_https___hypem.com_premieres
+AVERAGE_https___hypem.com_zeitgeist_2016
+AVERAGE_https___hypem.com_zeitgeist_2017 

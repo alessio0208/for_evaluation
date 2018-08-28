@@ -1,0 +1,55 @@
+
+
+CLUSTER 1
+AVERAGE_http:__www.harvard.edu_itunes
+AVERAGE_https:__www.harvard.edu_admissions-aid
+AVERAGE_https:__www.harvard.edu_admissions-aid#titletop
+AVERAGE_https:__www.harvard.edu_contact-harvard
+AVERAGE_https:__www.harvard.edu_copyright-issue
+AVERAGE_https:__www.harvard.edu_faculty
+AVERAGE_https:__www.harvard.edu_on-campus_commencement_guide-to-academic-garb
+AVERAGE_https:__www.harvard.edu_on-campus_visit-harvard_tours_audio-tours
+AVERAGE_https:__www.harvard.edu_on-campus_visit-harvard_tours_mobile-tour
+AVERAGE_https:__www.harvard.edu_parents
+AVERAGE_https:__www.harvard.edu_president_speech_2017_freshman-convocation-address-to-class-2021
+AVERAGE_https:__www.harvard.edu_privacy-statement
+AVERAGE_https:__www.harvard.edu_schools
+AVERAGE_https:__www.harvard.edu_security-issue
+AVERAGE_https:__www.harvard.edu_sitemap
+AVERAGE_https:__www.harvard.edu_staff
+AVERAGE_https:__www.harvard.edu_students 
+
+CLUSTER 2
+AVERAGE_https:__www.harvard.edu_about-harvard
+AVERAGE_https:__www.harvard.edu_about-harvard_academic-experience
+AVERAGE_https:__www.harvard.edu_about-harvard_administrative-offices
+AVERAGE_https:__www.harvard.edu_about-harvard_directories
+AVERAGE_https:__www.harvard.edu_about-harvard_frequently-asked-questions
+AVERAGE_https:__www.harvard.edu_about-harvard_harvard-glance
+AVERAGE_https:__www.harvard.edu_about-harvard_harvard-glance_about-faculty
+AVERAGE_https:__www.harvard.edu_about-harvard_harvard-glance_history
+AVERAGE_https:__www.harvard.edu_about-harvard_harvard-glance_history-presidency
+AVERAGE_https:__www.harvard.edu_about-harvard_harvard-glance_history_historical-facts
+AVERAGE_https:__www.harvard.edu_about-harvard_harvard-glance_honors_pulitzer-prize-winners
+AVERAGE_https:__www.harvard.edu_all-harvard-mobile
+AVERAGE_https:__www.harvard.edu_media-relations
+AVERAGE_https:__www.harvard.edu_on-campus
+AVERAGE_https:__www.harvard.edu_on-campus_commencement
+AVERAGE_https:__www.harvard.edu_president 
+
+CLUSTER 3
+AVERAGE_harvard.edu_
+AVERAGE_http:__www.harvard.edu_about-harvard_multimedia
+AVERAGE_https:__www.harvard.edu_about-harvard_harvard-glance_wallpaper-and-cover-photos
+AVERAGE_https:__www.harvard.edu_about-harvard_social-media
+AVERAGE_https:__www.harvard.edu_about-harvard_social-media-and-newsletter-directory
+AVERAGE_https:__www.harvard.edu_events
+AVERAGE_https:__www.harvard.edu_on-campus_arts-and-humanities 
+
+CLUSTER 4
+AVERAGE_https:__www.harvard.edu_about-harvard_harvard-glance_endowment
+AVERAGE_https:__www.harvard.edu_about-harvard_harvard-glance_history_375th-anniversary
+AVERAGE_https:__www.harvard.edu_about-harvard_harvard-glance_student-life
+AVERAGE_https:__www.harvard.edu_on-campus_museums
+AVERAGE_https:__www.harvard.edu_on-campus_research
+AVERAGE_https:__www.harvard.edu_on-campus_visit-harvard 
